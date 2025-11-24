@@ -1,81 +1,131 @@
-@@ -1,40 +1,36 @@
-1	1	
-<h1 align="center">Hi 👋, I'm Sagar Singh Bisht</h1>
-2	2	
-<h3 align="center">A passionate Software Developer from India</h3>
-3	3	
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-4	4	
+<img align="right" src="https://img.shields.io/badge/Visitors-6323-blue?style=flat-square" />
 
-5	5	
 
-6	6	
-- 🔭 I’m currently pursuing **Btech Final year from Graphic Era Hill University**
-7	7	
 
-8	8	
-- 🌱 I’m currently learning **Artificial Intelligence**
-9	9	
+<h1 align="center">
+    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sonu+Bisht!;" /> -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=964B00&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Sonu+Bisht%F0%9F%91%8B;A+Data+Enthusiast!" alt="Typing SVG" /></a>
+</h1>
 
-10	10	
-- 📫 How to reach me **bishtsagar8958@gmail.com**
-11	11	
+<div align=center>
+<h4 align="center" >“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”~ Dan Heath.</h4>
 
-12	12	
-<h3 align="left">Connect with me:</h3>
-13	13	
-<p align="left">
-14	14	
-<a href="https://instagram.com/sagar_singh_bxt_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar singh Bisht" height="30" width="40" /></a>
-15	15	
-<a href="https://www.leetcode.com/https://leetcode.com/u/sagar_coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sagar_coder/" height="30" width="40" /></a>
-16	16	
-<a href="https://linkedin.com/in/sagar-singh-bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-singh-bisht" height="30" width="40" /></a>
-17	17	
+<img src= "https://github.com/iamsonubisht/iamsonubisht/blob/main/images/SIRI_MLENGINEERFAANG.png" align="center" alt="Project Image" height="400" width="400;" /><br/>
+</br>
+</div>
+</br>
 
-18	18	
-</p>
-19	19	
 
-20	20	
-<h3 align="left">Languages and Tools:</h3>
-21	21	
-<p align="left">
-22	22	
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-23	23	
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-24	24	
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-25	25	
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-26	26	
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-27	27	
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-28	28	
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-29	29	
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-30	30	
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-31	31	
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-32	32	
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-33	33	
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-34	34	
-</p>
-35	35	
-
-36		-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsonubisht&show_icons=true&locale=en&layout=compact" alt="sonu bisht" /></p>
-37		-
-38		-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsonubisht&show_icons=true&locale=en" alt="sonu bisht" /></p>
-39		-
-40		-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsonubisht&" alt="sonu bisht" /></p>
-36	+
+<div align="left">
+📊 Crafting stories from data chaos. As a seasoned Data Enthusiast, I bring raw numbers to life, turning them into captivating narratives. Embracing Dan Heath's wisdom, I believe that data are not just summaries but a collection of stories waiting to be told. 💻✨
+</br>
+</div>
  
+<div align="center"> 
+  <a href="mailto:iamsonubisht95@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sonu-bisht-050474250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Tableau-ECD53F?style=for-the-badge&logo=graph&logoColor=Green" target="_blank" /> 
+  </a>
+</div>
+
+ <hr/>
+ 
+</div>
+<div align="left">
+
+🌱 Proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
+
+❤️ I aim to actively contribute to open-source ML projects, foster knowledge sharing through community engagement, and experiment with cutting-edge machine learning techniques to drive innovation and collaborative growth.
+
+💬 Certified in **Tableau Desktop and Snowflake (SnowPro Core)**, with a proven track record of automating tasks and optimizing data processes.
+
+⚡ Fun fact: I blend creativity with wellness in my life – from crafting Mandala and Acrylic art to maintaining an active running routine and mastering vegetarian cooking.
+
+🔍🗺️ From a generative AI and data science foundation, I'm working towards understanding ML model interpretability and ethical AI implications.
+
+ </div>
+
+<div align="center">
+  <h2>⚙️ Technologies & Tools ⚙️</h2>
+  <br/>
+  
+  <img src="./images/tableau.png" alt="Tableau" width="90" height="70" />
+  <img src="./images/snowflake.png" alt="snowflake Logo" width="70" height="70" />
+  <img src="./images/alteryx.png" alt="Alteryx Logo" width="90" height="50" />
+  <img src="./images/python.png" alt="Python" width="70" height="70" />
+  <img src="./images/sqlserver.png" alt="Microsoft SQL Logo" width="70" height="70" />
+  <img src="./images/mysql.png" alt="My SQL Logo" width="90" height="70" />
+  <img src="./images/powerbi.png" alt="Power BI Logo" width="70" height="70" />
+  <img src="./images/qliksense.png" alt="Qlik Sense Logo" width="90" height="70" />
+  <img src="./images/pandas.png" alt="Pandas Logo" width="70" height="70" />
+  <img src="./images/excel.png" alt="MS Excel Logo" width="70" height="70" />
+  <img src="./images/jupyter.png" alt="Jupyter logo" width="70" height="70" />
+  <img src="./images/sklearn.png" alt="SKlearn Logo" width="70" height="50" />
+  <img src="./images/numpy.png" alt="Numpy Logo" width="50" height="40" />
+  <img src="./images/matplot.png" alt="Matplotlib Logo" width="70" height="70" />
+  <img src="./images/gcp.png" alt="GCP Logo" width="90" height="70" />
+  <img src="./images/jira.png" alt="Jira Logo" width="70" height="70" />
+  <img src="./images/alation.png" alt="Alation Logo" width="90" height="70" />
+  <br/>
+</div>
+
+<br/>
+  <div align="center">
+  <h2 style="background-color: #f2f2f2; display: inline-flex; align-items: center; gap: 8px;">
+    <img src="images/LCSQL50.gif" alt="LCSQL50" width="90" height="90" />
+  </h2>
+</div>
+<br/>
+
+<hr/>
+
+
+<div align="center">
+    <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀 </h2>
+</div>
+
+
+
+</div>
+
+<div align="center">
+    <h2 style="background-color: #f2f2f2;">💻 Social Media Profiles 💻</h2>
+
+
+
+</div>
+
+</div>
+<div align="center">
+  <h2>🎖️ My Contributions 📝 </h2>
+  <br> 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iamsonubisht/iamsonubisht/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<div align="center">
+<img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=iamsonubisht&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=iamsonubisht&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsonubisht&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
