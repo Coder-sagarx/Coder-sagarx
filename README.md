@@ -3,8 +3,8 @@
 
 
 <h1 align="center">
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sonu+Bisht!;" /> -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=964B00&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Sonu+Bisht%F0%9F%91%8B;A+Data+Enthusiast!" alt="Typing SVG" /></a>
+    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sagar+Singh+Bisht!;" /> -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=964B00&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Sagar+Singh+Bisht%F0%9F%91%8B;A+Data+Enthusiast!" alt="Typing SVG" /></a>
 </h1>
 
 <div align=center>
@@ -22,10 +22,10 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:iamsonubisht95@gmail.com">
+  <a href="mailto:bishtsagar8958@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/sonu-bisht-050474250/" target="_blank">
+  <a href="https://www.linkedin.com/in/sagar-singh-bisht-804356291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="#" target="_blank">
@@ -41,7 +41,7 @@
 </div>
 <div align="left">
 
-🌱 Proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
+🌱 Proficient in **SQL, Python** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
 
 ❤️ I aim to actively contribute to open-source ML projects, foster knowledge sharing through community engagement, and experiment with cutting-edge machine learning techniques to drive innovation and collaborative growth.
 
@@ -57,14 +57,10 @@
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
   
-  <img src="./images/tableau.png" alt="Tableau" width="90" height="70" />
-  <img src="./images/snowflake.png" alt="snowflake Logo" width="70" height="70" />
-  <img src="./images/alteryx.png" alt="Alteryx Logo" width="90" height="50" />
+   
   <img src="./images/python.png" alt="Python" width="70" height="70" />
   <img src="./images/sqlserver.png" alt="Microsoft SQL Logo" width="70" height="70" />
   <img src="./images/mysql.png" alt="My SQL Logo" width="90" height="70" />
-  <img src="./images/powerbi.png" alt="Power BI Logo" width="70" height="70" />
-  <img src="./images/qliksense.png" alt="Qlik Sense Logo" width="90" height="70" />
   <img src="./images/pandas.png" alt="Pandas Logo" width="70" height="70" />
   <img src="./images/excel.png" alt="MS Excel Logo" width="70" height="70" />
   <img src="./images/jupyter.png" alt="Jupyter logo" width="70" height="70" />
@@ -72,8 +68,7 @@
   <img src="./images/numpy.png" alt="Numpy Logo" width="50" height="40" />
   <img src="./images/matplot.png" alt="Matplotlib Logo" width="70" height="70" />
   <img src="./images/gcp.png" alt="GCP Logo" width="90" height="70" />
-  <img src="./images/jira.png" alt="Jira Logo" width="70" height="70" />
-  <img src="./images/alation.png" alt="Alation Logo" width="90" height="70" />
+ 
   <br/>
 </div>
 
